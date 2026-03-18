@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Proyecto1-PrograIII.iml" filepath="$PROJECT_DIR$/.idea/Proyecto1-PrograIII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArbolExpresiones.iml" filepath="$PROJECT_DIR$/ArbolExpresiones.iml" />
     </modules>
   </component>
 </project>
